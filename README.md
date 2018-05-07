@@ -3,11 +3,11 @@
 2018/5/6
 
 Main goal
-	Transforming metadata entered by archivists into spreadsheets into National Archives Catalog-compliant XML
+Transforming metadata entered by archivists into spreadsheets into National Archives Catalog-compliant XML
 
 
 How to Run "transform.py"
-	Run "transform.py" in Python IDE after library "pandas" and "tkinter" are already correctly installed.It will pop up a window for the user to select the file they want to convert. The file must be standard spreadsheet used by NAtional Archives Catalog for a successful conversion.The output XML file will be saved in the same directory where input file locates.
+Run "transform.py" in Python IDE after library "pandas" and "tkinter" are already correctly installed.It will pop up a window for the user to select the file they want to convert. The file must be standard spreadsheet used by NAtional Archives Catalog for a successful conversion.The output XML file will be saved in the same directory where input file locates.
 
 
 Notes
