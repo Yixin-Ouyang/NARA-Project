@@ -1,7 +1,5 @@
 # NARA-Project
 
-2018/5/6
-
 ## Main goal
 Transforming metadata entered by archivists into spreadsheets into National Archives Catalog-compliant XML
 
